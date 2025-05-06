@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm DongHyeon Kim</h1>
-<h3 align="center">🤖 Robotics | Autonomous System | Estimation</h3>
+<h3 align="center">🤖 </h3>
 <p align="center">📍 Seoul, Korea</p>
 
 <p align="center">
-  <a href="https://donghyeon99.github.io/cv/" target="_blank">📄 </strong></a>
+  <a href="https://donghyeon99.github.io/cv/" target="blank">📄 </strong></a>
 </p>
 
 ---
