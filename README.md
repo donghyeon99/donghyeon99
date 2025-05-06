@@ -3,7 +3,7 @@
 <p align="center">📍 Seoul, Korea</p>
 
 <p align="center">
-  <a href="https://donghyeon99.github.io/cv/" target="_blank">📄 View My Full CV</strong></a>
+  <a href="https://donghyeon99.github.io/cv/" target="_blank">📄CV</strong></a>
 </p>
 
 ---
