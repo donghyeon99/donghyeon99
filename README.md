@@ -3,13 +3,8 @@
 <p align="center">📍 Seoul, Korea</p>
 
 <p align="center">
-  <a href="https://donghyeon99.github.io/cv/" target="_blank"><strong>📄 View My Full CV</strong></a>
+  <a href="https://donghyeon99.github.io/cv/" target="_blank">📄 View My Full CV</strong></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=donghyeon99&label=Profile%20views&color=0e75b6&style=flat" alt="donghyeon99" />
-</p>
-
 ---
 
 <p align="center">
