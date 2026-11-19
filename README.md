@@ -8,13 +8,6 @@
 
 ---
 
-<p align="center">
-  🔭 I’m currently working on <strong>robotics</strong><br/>
-  🌱 I’m currently learning <strong>robotics</strong><br/>
-  🤝 I’m open to collaboration in <strong>robotics and embedded system projects</strong><br/>
-  📫 Reach me at <strong>ehdgus2210@gmail.com</strong>
-</p>
-
 ---
 
 ## 🛠️ Languages & Tools
