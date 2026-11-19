@@ -2,10 +2,6 @@
 <h3 align="center">🤖 </h3>
 <p align="center">📍 Seoul, Korea</p>
 
-<p align="center">
-  CV:<a href="https://donghyeon99.github.io/cv/" target="blank">📄 </strong></a>
-</p>
-
 ---
 
 ---
